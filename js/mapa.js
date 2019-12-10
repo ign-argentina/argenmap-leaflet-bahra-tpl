@@ -12,7 +12,7 @@ $('#top-left-logo-link').attr("href","//www.bahra.gob.ar/");
 $('#top-left-logo').attr("src","templates/argenmap-leaflet-bahra-tpl/img/logo.png");
 $('#top-left-logo').attr("alt","Base de Asentamientos Humanos de la República Argentina (BAHRA)");
 $('#top-left-logo').attr("title","Base de Asentamientos Humanos de la República Argentina (BAHRA)");
-$('#top-right-logo-link').attr("href","../files/mapa_ayuda.pdf");
+$('#top-right-logo-link').attr("href","../descargas/mapa_ayuda.pdf");
 $('#top-right-logo').attr("src","templates/argenmap-leaflet-bahra-tpl/img/ayuda_de_pagina_blanco.svg");
 $('#top-right-logo').attr("alt","Ayuda");
 $('#top-right-logo').attr("title","Ayuda");

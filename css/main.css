@@ -174,6 +174,7 @@ Personalizado
 *******************************/
 body {
 	font-family: "Titillium Web", sans-serif;
+	background-color: #b1c926 !important;
 }
 
 a {
@@ -188,14 +189,14 @@ a:hover {
 }
 
 .navbar {
-	background-color: #b1c926;
+	background-color: #b1c926 !important;
 }
 
 #sidebar-container {
-	background-color: #b1c926;
+	background-color: #b1c926 !important;
 }
 
-.menu5 {
+.menu5 .panel-heading {
 	background-color: #b1c926 !important;
 }
 

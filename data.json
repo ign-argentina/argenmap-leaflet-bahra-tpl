@@ -14,7 +14,7 @@
           "nombre": "argenmap",
           "servicio": "tms",
           "version": "1.0.0",
-          "attribution": "<a href='http://www.ign.gob.ar/AreaServicios/Argenmap/IntroduccionV2' target='_blank'>Instituto Geográfico Nacional</a> + <a href='http://www.osm.org/copyright' target='_blank'>OpenStreetMap</a>",
+          "attribution": "<a href='https://www.ign.gob.ar/AreaServicios/Argenmap/IntroduccionV2' target='_blank'>Instituto Geográfico Nacional</a> + <a href='https://www.osm.org/copyright' target='_blank'>OpenStreetMap</a>",
           "host": "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/capabaseargenmap@EPSG%3A3857@png/{z}/{x}/{-y}.png",
           "legendImg": "src/styles/images/argenmap.png",
           "peso": 10,
@@ -25,7 +25,7 @@
           "nombre": "argenmap_gris",
           "servicio": "tms",
           "version": "1.0.0",
-          "attribution": "<a href='http://www.ign.gob.ar/AreaServicios/Argenmap/IntroduccionV2' target='_blank'>Instituto Geográfico Nacional</a> + <a href='http://www.osm.org/copyright' target='_blank'>OpenStreetMap</a>",
+          "attribution": "<a href='https://www.ign.gob.ar/AreaServicios/Argenmap/IntroduccionV2' target='_blank'>Instituto Geográfico Nacional</a> + <a href='https://www.osm.org/copyright' target='_blank'>OpenStreetMap</a>",
           "host": "https://wms.ign.gob.ar/geoserver/gwc/service/tms/1.0.0/mapabase_gris@EPSG%3A3857@png/{z}/{x}/{-y}.png",
           "legendImg": "src/styles/images/argenmap-gris.png",
           "peso": 20
@@ -71,7 +71,7 @@
       "seccion": "bahra",
       "servicio": "wms",
       "version": "1.3.0",
-      "host": "http://wms.ign.gob.ar/geoserver/bahra/wms",
+      "host": "https://wms.ign.gob.ar/geoserver/bahra/wms",
       "feature_info_format": "application/json"
     },
     {
@@ -83,7 +83,7 @@
       "seccion": "bahra_aglomerados",
       "servicio": "wms",
       "version": "1.3.0",
-      "host": "http://wms.ign.gob.ar/geoserver/bahra_aglomerados/wms",
+      "host": "https://wms.ign.gob.ar/geoserver/bahra_aglomerados/wms",
       "feature_info_format": "application/json"
     },
     {
@@ -95,7 +95,7 @@
       "seccion": "limites",
       "servicio": "wms",
       "version": "1.3.0",
-      "host": "http://wms.ign.gob.ar/geoserver/limites"
+      "host": "https://wms.ign.gob.ar/geoserver/limites"
     }
   ],
   "template": "argenmap-leaflet-bahra-tpl"

@@ -28,7 +28,7 @@
   "referencias": {
     "show": true,
     "src": "src/config/styles/images/ayuda_de_pagina.png",
-    "width":"30px",
+    "width":"",
     "height":""
   },
   "theme": {

@@ -24,7 +24,7 @@
       "max": 21
     }
   },
-  "showSearchBar": false,
+  "showSearchBar": true,
   "searchbar":{
     "isActive": true,
     "top": "5px",

@@ -30,7 +30,10 @@
     "top": "5px",
     "left": "40%",
     "color_focus": "#b1c926",
-    "background_color": "rgba(255, 255, 255, 0.7)"
+    "background_color": "rgba(255, 255, 255, 0.7)",
+    "strings": {
+      "placeholder": "Buscar localidad..."
+    }
   },
   "geocoder":{
     "url": "https://api.ign.gob.ar/buscador/",

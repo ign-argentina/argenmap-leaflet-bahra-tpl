@@ -1,0 +1,23 @@
+@media (max-width: 768px) and (orientation: portrait){
+  #searchbar  {
+    left: 50px;
+    top: 5px;
+    max-width: 250px;
+  }
+  #top-left-logo {
+    left: 180px;
+    width: 82px
+  }
+}
+
+@media (max-width: 768px) and (orientation: landscape){
+  #searchbar  {
+    left: 50px ;
+    top: 5px ;
+    max-width: 250px ;
+  }
+
+  #top-left-logo {
+    left: 200px ;
+  }
+}
